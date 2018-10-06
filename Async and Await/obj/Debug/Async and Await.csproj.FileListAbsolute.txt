@@ -1,0 +1,9 @@
+G:\C#.NetPrograms\Async and Await\Async and Await\bin\Debug\Async and Await.exe.config
+G:\C#.NetPrograms\Async and Await\Async and Await\bin\Debug\Async and Await.exe
+G:\C#.NetPrograms\Async and Await\Async and Await\bin\Debug\Async and Await.pdb
+G:\C#.NetPrograms\Async and Await\Async and Await\obj\Debug\Async and Await.csprojAssemblyReference.cache
+G:\C#.NetPrograms\Async and Await\Async and Await\obj\Debug\Async and Await.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\Async and Await\Async and Await\obj\Debug\Async and Await.exe
+G:\C#.NetPrograms\Async and Await\Async and Await\obj\Debug\Async and Await.pdb
+G:\C#.NetPrograms\Async and Await\Async and Await\obj\Debug\Async_and_Await.Async_and_Await.Form.resources
+G:\C#.NetPrograms\Async and Await\Async and Await\obj\Debug\Async and Await.csproj.GenerateResource.cache
